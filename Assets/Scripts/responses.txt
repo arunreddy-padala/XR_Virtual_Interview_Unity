@@ -1,0 +1,5 @@
+Hello my name is Siddhant.
+and apps to that class is used to show code between different subclasses and an interface is used to serve as a wrapper to different classes with the same function definitions
+unit tests are used to uh figure out bugs in the code and that's why it's important
+an interface is uh evaporator all classes that implement it they have they share the same function definition
+makes use of the last in first out ordering while the queue makes use of the first and first out order

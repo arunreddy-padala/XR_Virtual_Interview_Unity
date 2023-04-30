@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5e1a76dd297c4834cb7026ed9901f831
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _destroyReference: {fileID: 6064193836561606588, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+  - _destroyEffectReference: {fileID: 3533785584760770712, guid: 2945334f87996544498457d65c2826d9, type: 3}
+  - explosionSound: {fileID: 8300000, guid: 106d2161120a9a0438d4f63e885c0bed, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

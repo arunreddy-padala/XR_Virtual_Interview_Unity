@@ -1,0 +1,13 @@
+What is an interface in object-oriented programming?
+What is a primary key in a database?
+How can one check if a binary tree is balanced?
+What is a hash table and how does it work?
+What is the main difference between an abstract class and an interface?
+What is the main difference between a stack and a queue data structure?
+What is the main difference between a linked list and an array data structure?
+What is the most common algorithm used to calculate the maximum subarray sum?
+What is the data structure that can be used to implement a priority queue?
+What is the purpose of version control software like Git?
+What is a unit test and why is it important?
+What is the difference between a compile-time error and a runtime error in programming?
+What is the time complexity and space complexity of the Merge sort algorithm?

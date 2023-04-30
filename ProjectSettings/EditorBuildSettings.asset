@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/NewMenuScene.unity
+    guid: 8b98e02c5b3f286489bed31ca9fc3525
+  - enabled: 1
+    path: Assets/Scenes/NewFemaleAnime.unity
+    guid: 2f71a26e2e7d10d488edd5302dc7010c
+  - enabled: 1
+    path: Assets/Scenes/NewFemaleFeedback.unity
+    guid: 93283947b8573ae4da75e614ffff55da
+  - enabled: 1
+    path: Assets/Scenes/NewMaleAnime.unity
+    guid: 18ac36210736ba04684a60d5d154485c
+  - enabled: 1
+    path: Assets/Scenes/NewMaleFeedback.unity
+    guid: c0160ae41ee58f44799fd8c7596a379d
+  - enabled: 1
+    path: Assets/Scenes/SurveyScene.unity
+    guid: 2b0e71079fae2014187a1c145986d7cc
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 83571201095456f458d981d2684c8558, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 90fef4b99c006db458743b5b64a95136, type: 2}

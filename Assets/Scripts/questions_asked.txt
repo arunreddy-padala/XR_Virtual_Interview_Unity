@@ -1,0 +1,5 @@
+To start off, can you give me a brief introduction about yourself?
+Alright, now, let us go over some technical questions. What is the main difference between an abstract class and an interface?
+Okay, let us move to the next question. What is a unit test and why is it important?
+Could you tell me:  What is an interface in object-oriented programming?
+Now, for your final question:  What is the main difference between a stack and a queue data structure?
