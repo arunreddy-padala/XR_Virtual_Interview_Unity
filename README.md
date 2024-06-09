@@ -1,15 +1,19 @@
-# XR_Virtual_Interview_Unity
+# Technical_Interview_Trainer_Unity_VR
 
-Languages & Frameworks: C#, Mixamo Avatar, Oculus Integration SDK, OpenAI GPT-3, Azure STT, and Qualtrics. 
+This Virtual Reality application provides an immersive environment for Computer Science students to practice and hone their skills for technical job interviews. Designed with state-of-the-art technology and thoughtful features, it simulates interviews for various technical roles, enhancing the user's preparedness for real-world job applications.
 
-Contributors: Arun Kumar Reddy Padala, Dat Nyugen, Siddhanth Jayaraj Ajr, and Swati Agarwal. 
+Languages & Frameworks: C#, Mixamo Avatar, Oculus Integration SDK, OpenAI GPT-3, Azure Speech-to-Text (STT), Qualtrics
 
-1. Designed an application that focuses on how VR applications can be used to simulate technical interviews for training students in Computer Science (CS) to land a good technical job. 
-2. The VR application allows participants to train for 3 technical roles, namely, Software Development Engineer, Machine Learning Engineer, and AR/VR Engineer. 
-3. The participant can choose from a male or female interviewer (3D avatar) and customise their skin color to make make the interview experience more comfortable.
-4. The participant themselves is represented in the app as a pair of hands (3D hand model) in the skin color of their choice.
-5. The interview proceeds with the interviewer asking 4 technical questions. For each question, an audio response is recorded from the participant. The response is scored and a feedback is presented to the user at the end.
-6. The application includes an survey scene at the end where participants answer questions related to the application. 
-7. The app uses Azure’s Speech to Text API for transcribing the participant’s response. It uses OpenAI’s large language model, GPT-3, to provide a feedback for the participant’s response.
-8. The app was user tested by 30 CS students. The app was found to be useful and easy to use. It did not upset participants or cause significant anxiety. 
-9. Overall, findings from the user survey data suggest that technical interview training VR apps could receive widespread adoption.
+Contributors: Arun Kumar Reddy Padala, Dat Nyugen, Siddhanth Jayaraj Ajr, Swati Agarwal
+
+Features:
+- Role-Specific Preparation: Supports training for three specific roles: Software Development Engineer, Machine Learning Engineer, and AR/VR Engineer.
+- Customizable Avatars: Participants can choose and customize their interviewer's avatar, selecting gender and skin color, to personalize the interview experience.
+- Immersive Interaction: Users interact with the environment using 3D hand models, selectable in their preferred skin color.
+- Dynamic Questioning: The interviewer avatar asks four technical questions per session, with participant responses recorded and transcribed using Azure STT.
+- Intelligent Feedback: Responses are analyzed and feedback is generated using OpenAI’s GPT-3, offering insights into the user's performance.
+- Post-Interview Survey: Includes a Qualtrics-based survey scene to gather user feedback and insights about their experience and the application's effectiveness.
+  
+User Experience:
+- User Testing: The application was tested by 30 CS students, confirming its utility and ease of use without causing significant anxiety or discomfort.
+- Potential Impact: Preliminary survey data suggests that VR applications for technical interview training could be broadly beneficial and are likely to gain widespread adoption.
